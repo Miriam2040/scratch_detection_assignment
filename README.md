@@ -1,15 +1,7 @@
 # Scratch Detection Assignment
-Scratch Detection Assignment for a student position in the data science team at NI
+Scratch Detection Assignment for a position in the data science team at NI
 
 <img src="assets/NI_logo.png" width="100" height="100">
-Before you start working on this assignment, make sure you meet the prerequisites below: <a href="https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/6927">Machine Learning Engineer Student Job Description</a>
-
-**Main mandatory requirements:**
-
-- Studying for M.Sc/B.Sc in Computer Science or related technical discipline( M.Sc is a big advantage)
-- Remaining studies of at least one and a half years.
-- Availability for 3-4 working days a week.
-- Located in Israel
 
 ## Introduction:
 
@@ -102,9 +94,7 @@ Pay attention to the following points:
 
 1. After completing the assignment please review your notebook, making sure it ran properly from start to finish
 2. Create the prediction column for the test set as described in the notebook and save the results to a CVS file
-3. Send an email to one of the following:
-    - roni.goldshmidt@ni.com / miriam.horovicz@ni.com 
-    - The email should include a zip file with your notebook and a CSV file with the prediction.
+3. Send an email to miriam.horovicz@emerson.com. The email should include a zip file with your notebook and a CSV file with the prediction.
 4. After receiving the email with the assignment we will inform you about the next steps
 
 
